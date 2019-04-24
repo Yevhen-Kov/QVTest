@@ -190,8 +190,8 @@
     <StrDevModeExtra></StrDevModeExtra>
   </TableViewerPrintSettings>
   <ProhibitBinaryLoad>false</ProhibitBinaryLoad>
-  <LastReloadTimeAsString></LastReloadTimeAsString>
-  <LastReloadTime>40E54771970A3D71</LastReloadTime>
+  <LastReloadTimeAsString>24.04.2019 13:55:09</LastReloadTimeAsString>
+  <LastReloadTime>40E547728F13579C</LastReloadTime>
   <Author></Author>
   <FreeDays>0</FreeDays>
   <WarningDays>0</WarningDays>
@@ -752,11 +752,11 @@
     <ExtendedValues></ExtendedValues>
     <StateName></StateName>
   </CaptionFrame>
-  <HasTableOriginOfFields>false</HasTableOriginOfFields>
+  <HasTableOriginOfFields>true</HasTableOriginOfFields>
   <ReloadTimeObsololete></ReloadTimeObsololete>
-  <VBModulePos>-2</VBModulePos>
-  <VBModuleXScrollPos>-2</VBModuleXScrollPos>
-  <VBModuleYScrollPos>-2</VBModuleYScrollPos>
+  <VBModulePos>40</VBModulePos>
+  <VBModuleXScrollPos>0</VBModuleXScrollPos>
+  <VBModuleYScrollPos>0</VBModuleYScrollPos>
   <ScriptWantsExe>false</ScriptWantsExe>
   <ScriptWantsDbWrite>false</ScriptWantsDbWrite>
   <CurrentBookmark></CurrentBookmark>
@@ -1288,8 +1288,14 @@
   <Extensions></Extensions>
   <ExtensionDescriptions></ExtensionDescriptions>
   <AllowServerAnnotation>true</AllowServerAnnotation>
-  <LastReloadTimeAsISOString>2019-04-24T10:11:33Z</LastReloadTimeAsISOString>
-  <AppProperties></AppProperties>
+  <LastReloadTimeAsISOString>2019-04-24T10:55:09.872Z</LastReloadTimeAsISOString>
+  <AppProperties>
+    <Title></Title>
+    <LastReloadTime>2019-04-24T10:55:09.872Z</LastReloadTime>
+    <MigrationHash></MigrationHash>
+    <SavedInProductVersion></SavedInProductVersion>
+    <Thumbnail></Thumbnail>
+  </AppProperties>
   <LocalizedMainSection></LocalizedMainSection>
   <FavoriteVariables></FavoriteVariables>
   <SearchFields></SearchFields>
