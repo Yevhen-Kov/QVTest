@@ -5,7 +5,76 @@
   <Bookmarks></Bookmarks>
   <SavedByVersion>12.20.20800.0</SavedByVersion>
   <ForceBackEndMacroExecution>false</ForceBackEndMacroExecution>
-  <FieldTags></FieldTags>
+  <FieldTags>
+    <ScriptBased>
+      <FieldTagData>
+        <Tag>$key</Tag>
+        <FieldNames>
+          <String>$Field</String>
+          <String>$Table</String>
+        </FieldNames>
+      </FieldTagData>
+      <FieldTagData>
+        <Tag>$hidden</Tag>
+        <FieldNames>
+          <String>$Field</String>
+          <String>$Table</String>
+          <String>$Rows</String>
+          <String>$Fields</String>
+          <String>$FieldNo</String>
+          <String>$Info</String>
+        </FieldNames>
+      </FieldTagData>
+      <FieldTagData>
+        <Tag>$system</Tag>
+        <FieldNames>
+          <String>$Field</String>
+          <String>$Table</String>
+          <String>$Rows</String>
+          <String>$Fields</String>
+          <String>$FieldNo</String>
+          <String>$Info</String>
+        </FieldNames>
+      </FieldTagData>
+      <FieldTagData>
+        <Tag>$ascii</Tag>
+        <FieldNames>
+          <String>$Field</String>
+          <String>$Table</String>
+          <String>$Info</String>
+        </FieldNames>
+      </FieldTagData>
+      <FieldTagData>
+        <Tag>$text</Tag>
+        <FieldNames>
+          <String>$Field</String>
+          <String>$Table</String>
+          <String>$Info</String>
+        </FieldNames>
+      </FieldTagData>
+      <FieldTagData>
+        <Tag>$numeric</Tag>
+        <FieldNames>
+          <String>$Rows</String>
+          <String>$Fields</String>
+          <String>$FieldNo</String>
+          <String>Field1</String>
+          <String>Field2</String>
+        </FieldNames>
+      </FieldTagData>
+      <FieldTagData>
+        <Tag>$integer</Tag>
+        <FieldNames>
+          <String>$Rows</String>
+          <String>$Fields</String>
+          <String>$FieldNo</String>
+          <String>Field1</String>
+          <String>Field2</String>
+        </FieldNames>
+      </FieldTagData>
+    </ScriptBased>
+    <Interactive></Interactive>
+  </FieldTags>
   <FieldComments></FieldComments>
   <TableComments></TableComments>
   <CreatePrjFolder>false</CreatePrjFolder>
