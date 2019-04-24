@@ -3,7 +3,7 @@
   <FieldSrcTables></FieldSrcTables>
   <TableViewData></TableViewData>
   <Bookmarks></Bookmarks>
-  <SavedByVersion>12.10.20500.0</SavedByVersion>
+  <SavedByVersion>12.20.20800.0</SavedByVersion>
   <ForceBackEndMacroExecution>false</ForceBackEndMacroExecution>
   <FieldTags></FieldTags>
   <FieldComments></FieldComments>
@@ -17,4 +17,6 @@
   <ConnectionInfo></ConnectionInfo>
   <GenericDerivedDefinitions></GenericDerivedDefinitions>
   <GenericDerivedFields></GenericDerivedFields>
+  <BnfOff>false</BnfOff>
+  <CreatedAfterSingleQuoteExactSearch>false</CreatedAfterSingleQuoteExactSearch>
 </DocInternals>
